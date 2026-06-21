@@ -1,5 +1,7 @@
 # 🐍 Python 板书教学课程
 
+<h3 align="center"><a href="README.md">中文</a> | <a href="README_en.md">English</a></h3>
+
 > 从 print("Hello World") 到搭建 Flask Web 应用
 
 ## 这是什么？
